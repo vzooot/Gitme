@@ -15,6 +15,8 @@ struct ContentView: View {
                 .foregroundColor(.accentColor)
             Text("Hello, world!")
             Text("Main 02!")
+            Text("Branch03 Commit01!")
+            
         }
         .padding()
     }
